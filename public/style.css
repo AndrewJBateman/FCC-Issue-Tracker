@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 10px;
+  background-color: #ccf5ff;
+}
+
+.issue {
+  margin: 20px;
+  padding: 5px;
+  width: 60%;
+  border: 2px solid black;
+}
+
+.open {
+ background-color: #ff8533; 
+}
+
+.closed {
+  background-color: #66ff33;
+}
+
+.id {
+  font-size: 10.5px;
+}
