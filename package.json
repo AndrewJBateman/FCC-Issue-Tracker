@@ -14,7 +14,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "helmet": "^4.1.0",
-    "mocha": "^8.1.1",
+    "mocha": "^8.4.0",
     "mongodb": "^3.6.0",
     "mongoose": "^5.10.0",
     "node-datetime": "^2.1.2",
